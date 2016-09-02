@@ -23,6 +23,7 @@
   <body>
   <pre>
     <?php print_r($this->session->userdata()) ?>
+    JOSUA
   </pre>
     <div class="container">
       <div class="row">
